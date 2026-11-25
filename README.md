@@ -38,6 +38,12 @@
 
 ![模擬門診病歷樣張。案例分享，不可使用。Case study only, not for use.](assets/clinical-record-case-study.png)
 
+### Hej 開發中
+
+![Hej 開發中的現場照片。案例分享，不可使用。Case study only, not for use.](assets/hej-development-case-study.jpg)
+
+照片中的測試資料及簽名已遮蔽。
+
 ## 下載
 
 [macOS v1.0](https://github.com/Hej28/Hejs-Prescription-Maker/releases/tag/v1.0) 適用於搭載 Apple 晶片、執行 macOS 14 或更新版本的 Mac。從 Release 的 **Assets** 下載 ZIP 並解壓縮，即可取得 `Hej's Prescription Maker.app`。此版本採用臨時簽名，未經 Apple 公證，macOS 可能會阻擋開啟。
